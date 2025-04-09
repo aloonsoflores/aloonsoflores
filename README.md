@@ -51,7 +51,7 @@ Estoy abierto a colaborar en proyectos interesantes, intercambiar ideas o simple
 ## 🖥️ Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlonsoFlores&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aloonsoflores&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </div>
 
 <!-- Lenguajes y Frameworks -->
