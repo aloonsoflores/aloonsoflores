@@ -2,8 +2,7 @@
 
 # Hola, soy Alonso Flores 👋
 
-Actualmente **Desarrollador de Software** en *TRC Informática SL*.  
-Graduado en **Desarrollo de Aplicaciones Web** en *IES El Cañaveral*.
+**Desarrollador Software** en [TRC Informática SL](#) | Graduado en **Desarrollo de Aplicaciones Web** por el *IES El Cañaveral*
 
 ## Sobre mí
 
