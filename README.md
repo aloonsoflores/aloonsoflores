@@ -48,9 +48,10 @@ Estoy abierto a colaborar en proyectos interesantes, intercambiar ideas o simple
   <img src="https://github-readme-stats.vercel.app/api?username=AlonsoFlores&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </div>
 
+<!-- Lenguajes y Frameworks -->
 <div align="center" style="margin-top: 20px;">
+  <h3>Lenguajes y Frameworks</h3>
   <a href="https://github.com/AlonsoFlores">
-    <!-- Lenguajes y Frameworks -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -58,10 +59,22 @@ Estoy abierto a colaborar en proyectos interesantes, intercambiar ideas o simple
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <!-- Bases de datos y backend -->
+  </a>
+</div>
+
+<!-- Bases de datos y Backend -->
+<div align="center" style="margin-top: 20px;">
+  <h3>Bases de datos y Backend</h3>
+  <a href="https://github.com/AlonsoFlores">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-    <!-- Herramientas -->
+  </a>
+</div>
+
+<!-- Herramientas -->
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <h3>Herramientas</h3>
+  <a href="https://github.com/AlonsoFlores">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   </a>
