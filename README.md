@@ -11,21 +11,27 @@
 ## 🚀 Proyectos Destacados
 
 ### [Pocket Solar System](https://pocket-solar-system.vercel.app/)
-Explora nuestro sistema solar de manera interactiva, con animaciones y datos curiosos sobre cada planeta.
+Proyecto de fin de grado centrado en la exploración interactiva de nuestro sistema solar. Incluye animaciones, datos curiosos sobre cada planeta, galerías de imágenes y una integración con la API de la NASA para obtener contenido actualizado y realista. Una mezcla de ciencia, diseño y tecnología al alcance de un clic.
 
 ### [Art du Parfum](https://art-du-parfum.vercel.app/)
-Descubre el arte y la ciencia de los perfumes a través de una experiencia digital innovadora que combina estética y funcionalidad.
+Como apasionado de la perfumería, decidí crear una web distinta para recomendar fragancias a amigos y conocidos. Así nació este catálogo online, pensado para explorar perfumes árabes únicos con estilo y, quién sabe, incluso generar algún ingreso extra. Las compras se gestionan de forma personalizada mediante contacto directo.
 
 ## 🛠️ Proyectos en Desarrollo
 
 - **Two-Factor Authentication System:**  
-  Sistema de autenticación de dos factores, diseñado para reforzar la seguridad de las aplicaciones.
+  En este proyecto desarrollo un sistema de Autenticación en Dos Factores (2FA) utilizando React, Context API para gestión de sesiones y la integración con APIs externas.
+El objetivo principal es reforzar la seguridad en el inicio de sesión de aplicaciones mediante una capa adicional de verificación, permitiendo una gestión eficiente de sesiones y autenticaciones en tiempo real.
+Este proyecto combina buenas prácticas de seguridad con una estructura moderna en React, ideal para entornos donde proteger al usuario es una prioridad.
   
 - **Supplement Tracker App:**  
-  App para gestionar y realizar el seguimiento del consumo de suplementos, pensada para mejorar la salud y el bienestar.
+  En mi día a día tomo suplementación como complemento a mi alimentación y rutina de gimnasio, y me surgió una idea: ¿por qué no crear una app para gestionarla mejor?
+La app permite configurar recordatorios para tomar suplementos, recibir alertas cuando se está quedando sin stock, hacer un seguimiento mensual del gasto y otras funcionalidades que iré integrando.
+Es una herramienta pensada para personas activas que, como yo, quieren tener un control más organizado de su suplementación.
   
 - **EPUB Reader App:**  
-  Lector de libros en formato EPUB, creado para ofrecer una experiencia de lectura cómoda y personalizable.
+  Otra de mis pasiones es la lectura, y aunque me encantan los libros físicos, prefiero los digitales por comodidad y espacio. Sin embargo, nunca he encontrado una app de lectura EPUB que me convenza del todo, así que decidí desarrollar la mía.
+La idea es crear un lector EPUB funcional, cómodo y personalizable, pensado para lectores frecuentes que valoran la experiencia digital tanto como el contenido.
+Un proyecto personal con el que busco ofrecer una alternativa sólida y moderna para los amantes de la lectura digital.
 
 ## ⚡ Mi Filosofía
 
