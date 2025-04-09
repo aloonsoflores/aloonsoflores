@@ -39,8 +39,8 @@ Programar es como resolver un enigma: cada error es una pista hacia la solución
 
 Estoy abierto a colaborar en proyectos interesantes, intercambiar ideas o simplemente charlar sobre programación. Puedes contactarme a través de:
 
-- [Email](mailto:tu-correo@ejemplo.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
+- [Email](mailto:floalonso.abad@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alonsofloresabad/)
 
 ## 🖥️ Mis Estadísticas en GitHub
 
@@ -58,11 +58,9 @@ Estoy abierto a colaborar en proyectos interesantes, intercambiar ideas o simple
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-
     <!-- Bases de datos y backend -->
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-
     <!-- Herramientas -->
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
