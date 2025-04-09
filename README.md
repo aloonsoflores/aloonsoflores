@@ -1,3 +1,5 @@
+![Banner de Alonso Flores](https://via.placeholder.com/1200x300?text=Hola,+soy+Alonso+Flores)
+
 # Hola, soy Alonso Flores 👋
 
 Actualmente **Desarrollador de Software** en *TRC Informática SL*.  
