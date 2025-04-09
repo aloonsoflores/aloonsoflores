@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hola, soy Alonso Flores 👋
 
-<!--
-**aloonsoflores/aloonsoflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente **Desarrollador de Software** en *TRC Informática SL*.  
+Graduado en **Desarrollo de Aplicaciones Web** en *IES El Cañaveral*.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajo en **TRC Informática SL** desarrollando proyectos y resolviendo problemas mediante la programación.
+- 🎓 Estudié **Desarrollo de Aplicaciones Web** en el Centro de formación profesional *IES El Cañaveral*.
+- 💡 Disfruto transformar retos en oportunidades creativas y aprender nuevas tecnologías en el proceso.
+
+## Proyectos en desarrollo
+
+Aunque tengo pocos proyectos publicados en GitHub, estoy inmerso en varios desarrollos interesantes, entre ellos:
+
+- **Two-Factor Authentication System:** Un sistema robusto que añade una capa extra de seguridad mediante autenticación de dos factores.
+- **Supplement Tracker App:** Una aplicación diseñada para controlar y gestionar el seguimiento del consumo de suplementos.
+- **EPUB Reader App:** Un lector de libros en formato EPUB, enfocado en ofrecer una experiencia de lectura única y amigable.
+- ¡Y muchos más que están en constante evolución!
+
+## Mi Filosofía
+
+Para mí, programar es como resolver un enigma en el que cada línea de código es una pista. Creo en el poder del detalle y en la precisión para crear soluciones duraderas y eficientes. Cada proyecto es una nueva aventura donde el error se convierte en el motor del aprendizaje.
+
+## Conectemos
+
+Si tienes una idea, proyecto o simplemente quieres intercambiar conocimientos, ¡no dudes en contactarme!  
+
+---
+
+<div align="center">
+  <a href="https://github.com/tu-usuario">
+    <img src="https://github-readme-stats.vercel.app/api?username=aloonsoflores&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  </a>
+</div>
