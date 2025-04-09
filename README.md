@@ -1,18 +1,12 @@
-![Banner de Alonso Flores](https://via.placeholder.com/1200x300?text=Hola,+soy+Alonso+Flores)
-
 # Hola, soy Alonso Flores 👋
 
 **Desarrollador Software** en [TRC Informática SL](#) | Graduado en **Desarrollo de Aplicaciones Web** por el *IES El Cañaveral*
-
----
 
 ## Sobre mí
 
 - 🔭 Actualmente trabajo en **TRC Informática SL** desarrollando proyectos y resolviendo problemas mediante la programación.
 - 🎓 Estudié **Desarrollo de Aplicaciones Web** en el Centro de formación profesional *IES El Cañaveral*.
 - 💡 Disfruto transformar retos en oportunidades creativas y aprender nuevas tecnologías en el proceso.
-
----
 
 ## 🚀 Proyectos Destacados
 
@@ -21,8 +15,6 @@ Explora nuestro sistema solar de manera interactiva, con animaciones y datos cur
 
 ### [Art du Parfum](https://art-du-parfum.vercel.app/)
 Descubre el arte y la ciencia de los perfumes a través de una experiencia digital innovadora que combina estética y funcionalidad.
-
----
 
 ## 🛠️ Proyectos en Desarrollo
 
@@ -35,8 +27,6 @@ Descubre el arte y la ciencia de los perfumes a través de una experiencia digit
 - **EPUB Reader App:**  
   Lector de libros en formato EPUB, creado para ofrecer una experiencia de lectura cómoda y personalizable.
 
----
-
 ## ⚡ Mi Filosofía
 
 Programar es como resolver un enigma: cada error es una pista hacia la solución. Busco siempre la perfección en la simplicidad, aprovechando cada desafío para aprender y crecer profesionalmente. Creo en:
@@ -45,8 +35,6 @@ Programar es como resolver un enigma: cada error es una pista hacia la solución
 - **Innovación constante:** Siempre hay una nueva forma de mejorar.
 - **Compartir conocimiento:** La colaboración es clave para el éxito en la tecnología.
 
----
-
 ## 📫 Conectemos
 
 Estoy abierto a colaborar en proyectos interesantes, intercambiar ideas o simplemente charlar sobre programación. Puedes contactarme a través de:
@@ -54,20 +42,29 @@ Estoy abierto a colaborar en proyectos interesantes, intercambiar ideas o simple
 - [Email](mailto:tu-correo@ejemplo.com)
 - [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
 
----
-
 ## 🖥️ Mis Estadísticas en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlonsoFlores&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </div>
 
-<!-- Badge Opcional: Lenguajes, Herramientas, etc. -->
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/AlonsoFlores">
-    <img src="https://img.shields.io/badge/Software-Developer-blue?style=for-the-badge&logo=github" alt="Software Developer"/>
-    <img src="https://img.shields.io/badge/HTML-CSS-orange?style=for-the-badge&logo=html5" alt="HTML & CSS"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-    <!-- Agrega más badges según tu stack de tecnologías -->
+    <!-- Lenguajes y Frameworks -->
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+    <!-- Bases de datos y backend -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+
+    <!-- Herramientas -->
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   </a>
 </div>
