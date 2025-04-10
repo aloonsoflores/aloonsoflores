@@ -1,58 +1,80 @@
+<!-- Banner opcional: Puedes cambiar la URL por alguna imagen que te represente -->
+![Banner de Alonso Flores](https://via.placeholder.com/1200x300?text=Hola,+soy+Alonso+Flores)
+
 # Hola, soy Alonso Flores 👋
 
-**Desarrollador Software** en *[TRC Informática SL](https://trc.es/)* | Graduado en **Desarrollo de Aplicaciones Web** por el *IES El Cañaveral*
+**Desarrollador Software** en [TRC Informática SL](https://trc.es/) | Graduado en **Desarrollo de Aplicaciones Web** por el *IES El Cañaveral*
+
+---
 
 ## Sobre mí
 
-- 🔭 Actualmente trabajo en **TRC Informática SL** desarrollando proyectos y resolviendo problemas mediante la programación.
-- 🎓 Estudié **Desarrollo de Aplicaciones Web** en el Centro de formación profesional *IES El Cañaveral*.
-- 💡 Disfruto transformar retos en oportunidades creativas y aprender nuevas tecnologías en el proceso.
+- 🔭 Actualmente trabajo en **TRC Informática SL**, desarrollando soluciones innovadoras y resolviendo problemas mediante la programación.
+- 🎓 Me formé en **Desarrollo de Aplicaciones Web** en el centro de formación *IES El Cañaveral*.
+- 💡 Apasionado por transformar retos en oportunidades y por aprender continuamente nuevas tecnologías.
+
+---
 
 ## 🚀 Proyectos Destacados
 
 ### [Pocket Solar System](https://pocket-solar-system.vercel.app/)
-Proyecto de fin de grado centrado en la exploración interactiva de nuestro sistema solar. Incluye animaciones, datos curiosos sobre cada planeta, galerías de imágenes y una integración con la API de la NASA para obtener contenido actualizado y realista. Una mezcla de ciencia, diseño y tecnología al alcance de un clic.
+Proyecto de fin de grado centrado en la exploración interactiva de nuestro sistema solar. Integra animaciones, datos curiosos de cada planeta, galerías de imágenes e integración con la API de la NASA para contenido en tiempo real. Ciencia, diseño y tecnología fusionados para explorar el universo con un clic.
 
 ### [Art du Parfum](https://art-du-parfum.vercel.app/)
-Como apasionado de la perfumería, decidí crear una web distinta para recomendar fragancias a amigos y conocidos. Así nació este catálogo online, pensado para explorar perfumes árabes únicos con estilo y, quién sabe, incluso generar algún ingreso extra. Las compras se gestionan de forma personalizada mediante contacto directo.
+Apasionado por la perfumería, creé este catálogo online para recomendar y vender fragancias árabes únicas. La web está pensada como una experiencia elegante donde cada perfume cuenta una historia, y las adquisiciones se gestionan de forma personalizada por contacto directo.
+
+---
 
 ## 🛠️ Proyectos en Desarrollo
 
 - **Two-Factor Authentication System:**  
-  En este proyecto desarrollo un sistema de Autenticación en Dos Factores (2FA) utilizando React, Context API para gestión de sesiones y la integración con APIs externas.
-El objetivo principal es reforzar la seguridad en el inicio de sesión de aplicaciones mediante una capa adicional de verificación, permitiendo una gestión eficiente de sesiones y autenticaciones en tiempo real.
-Este proyecto combina buenas prácticas de seguridad con una estructura moderna en React, ideal para entornos donde proteger al usuario es una prioridad.
-  
+  Desarrollo de un sistema de Autenticación en Dos Factores (2FA) utilizando React, Context API y APIs externas. Este proyecto refuerza la seguridad en el inicio de sesión mediante una capa adicional de verificación, combinando buenas prácticas y un enfoque moderno en React para proteger al usuario.
+
 - **Supplement Tracker App:**  
-  En mi día a día tomo suplementación como complemento a mi alimentación y rutina de gimnasio, y me surgió una idea: ¿por qué no crear una app para gestionarla mejor?
-La app permite configurar recordatorios para tomar suplementos, recibir alertas cuando se está quedando sin stock, hacer un seguimiento mensual del gasto y otras funcionalidades que iré integrando.
-Es una herramienta pensada para personas activas que, como yo, quieren tener un control más organizado de su suplementación.
-  
+  Inspirado en mi rutina diaria de suplementación para complementar la alimentación y el gimnasio, decidí crear esta app. Permite configurar recordatorios para la toma de suplementos, alertas de stock bajo, seguimiento mensual de gasto y más funcionalidades, ideal para quienes buscan optimizar su régimen diario.
+
 - **EPUB Reader App:**  
-  Otra de mis pasiones es la lectura, y aunque me encantan los libros físicos, prefiero los digitales por comodidad y espacio. Sin embargo, nunca he encontrado una app de lectura EPUB que me convenza del todo, así que decidí desarrollar la mía.
-La idea es crear un lector EPUB funcional, cómodo y personalizable, pensado para lectores frecuentes que valoran la experiencia digital tanto como el contenido.
-Un proyecto personal con el que busco ofrecer una alternativa sólida y moderna para los amantes de la lectura digital.
+  Amante de la lectura digital, desarrollé un lector EPUB funcional, cómodo y personalizable. Este proyecto nace de la necesidad de una experiencia de lectura digital de calidad, que ofrezca todas las ventajas de lo físico sin ocupar espacio.
+
+---
 
 ## ⚡ Mi Filosofía
 
-Programar es como resolver un enigma: cada error es una pista hacia la solución. Busco siempre la perfección en la simplicidad, aprovechando cada desafío para aprender y crecer profesionalmente. Creo en:
+Para mí, programar es como resolver un enigma: cada error es una pista hacia la solución. Me guío por estos principios:
   
-- **Código limpio y mantenible:** La base de un proyecto sólido.
-- **Innovación constante:** Siempre hay una nueva forma de mejorar.
-- **Compartir conocimiento:** La colaboración es clave para el éxito en la tecnología.
+- **Código limpio y mantenible:** La base para proyectos sólidos y escalables.
+- **Innovación constante:** Siempre hay nuevas formas de mejorar y reinventarse.
+- **Compartir conocimiento:** Creo en la colaboración y el intercambio de ideas como motor de progreso.
+
+---
 
 ## 📫 Conectemos
 
-Estoy abierto a colaborar en proyectos interesantes, intercambiar ideas o simplemente charlar sobre programación. Puedes contactarme a través de:
+Estoy abierto a colaborar en proyectos innovadores, intercambiar ideas o simplemente charlar sobre tecnología y programación. Puedes contactarme a través de:
 
 - [Email](mailto:floalonso.abad@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alonsofloresabad/)
 
-## 🖥️ Mis Estadísticas en GitHub
+---
+
+## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
+  <!-- Estadísticas de GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=aloonsoflores&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <br />
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloonsoflores&langs_count=8&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
+
+<!-- Trofeos de GitHub -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=aloonsoflores&theme=radical" alt="Trofeos de GitHub" />
+</div>
+
+---
+
+## 🖥️ Stack de Tecnologías
 
 <!-- Lenguajes y Frameworks -->
 <div align="center" style="margin-top: 20px;">
