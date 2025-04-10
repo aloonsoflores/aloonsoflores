@@ -1,5 +1,5 @@
 <!-- Banner opcional: Puedes cambiar la URL por alguna imagen que te represente -->
-![Banner de Alonso Flores](https://via.placeholder.com/1200x300/1d1f21/ffffff?text=Alonso+Flores+-+Desarrollador+Software)
+![Banner de Alonso Flores](https://github.com/tu-usuario/tu-repo/raw/main/git_hub_banner.png)
 
 # Hola, soy Alonso Flores 👋
 
