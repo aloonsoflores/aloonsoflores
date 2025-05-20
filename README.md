@@ -23,6 +23,9 @@ Proyecto de fin de grado centrado en la exploración interactiva de nuestro sist
 ### [Art du Parfum](https://art-du-parfum.vercel.app/)
 Apasionado por la perfumería, creé este catálogo online para recomendar y vender fragancias árabes únicas. La web está pensada como una experiencia elegante donde cada perfume cuenta una historia, y las adquisiciones se gestionan de forma personalizada por contacto directo.
 
+### [Advanced Auth](https://github.com/aloonsoflores/mern-advanced-auth/tree/main)
+Sistema de autenticación avanzada desarrollado siguiendo un [tutorial en YouTube](https://www.youtube.com/watch?v=pmvEgZC55Cg). Implementa flujos seguros para registro, verificación de correo electrónico con tokens JWT, recuperación de contraseñas mediante enlaces temporales y gestión de sesiones. Diseñado como laboratorio práctico para dominar buenas prácticas de seguridad en aplicaciones MERN (MongoDB, Express, React, Node.js). Autenticación robusta, escalable y lista para integración en proyectos reales.
+
 ---
 
 ## 🛠️ Proyectos en Desarrollo
