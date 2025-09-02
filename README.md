@@ -20,8 +20,14 @@
 ### [Pocket Solar System](https://pocket-solar-system.vercel.app/)
 Proyecto de fin de grado centrado en la exploración interactiva de nuestro sistema solar. Integra animaciones, datos curiosos de cada planeta, galerías de imágenes e integración con la API de la NASA para contenido en tiempo real. Ciencia, diseño y tecnología fusionados para explorar el universo con un clic.
 
-### [Art du Parfum](https://art-du-parfum.vercel.app/)
+### [Art du Parfum](https://github.com/aloonsoflores/ArtDuParfum)
 Apasionado por la perfumería, creé este catálogo online para recomendar y vender fragancias árabes únicas. La web está pensada como una experiencia elegante donde cada perfume cuenta una historia, y las adquisiciones se gestionan de forma personalizada por contacto directo.
+
+### [Lista de Perfumes](https://lista-de-productos-de-belleza.vercel.app/)
+Creé este catálogo online para mostrar y recomendar fragancias, con un diseño sencillo y organizado que permite explorar diferentes opciones de manera clara y atractiva.
+
+### [Lista de Productos de Belleza](https://lista-de-productos-de-belleza.vercel.app/)
+Desarrollé este catálogo digital enfocado en productos de belleza, pensado para ofrecer una experiencia visual limpia y práctica, donde cada artículo puede consultarse fácilmente.
 
 ### [Advanced Auth](https://github.com/aloonsoflores/mern-advanced-auth/tree/main)
 Sistema de autenticación avanzada desarrollado siguiendo un [tutorial en YouTube](https://www.youtube.com/watch?v=pmvEgZC55Cg). Implementa flujos seguros para registro, verificación de correo electrónico con tokens JWT, recuperación de contraseñas mediante enlaces temporales y gestión de sesiones. Diseñado como laboratorio práctico para dominar buenas prácticas de seguridad en aplicaciones MERN (MongoDB, Express, React, Node.js). Autenticación robusta, escalable y lista para integración en proyectos reales.
